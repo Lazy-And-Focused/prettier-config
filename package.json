@@ -1,6 +1,6 @@
 {
   "displayName": "Prettier Config for LAF",
-  "name": "prettier-config-laf",
+  "name": "@lazy-and-focused/prettier-config",
   "version": "1.0.0",
   "description": "Our (team) Prettier config",
   "type": "module",
