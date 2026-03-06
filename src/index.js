@@ -40,5 +40,15 @@ const config = {
   ],
 };
 
-export const PrettierLafConfiguration = config;
+export {
+  config as prettierLazyAndFocusedConfiguration,
+  config as prettierLazyAndFocusedConfig,
+  config as prettierLafConfiguration,
+  config as prettierLafConfig,
+  config as prettierConfiguration,
+  config as prettierConfig,
+  config as configuration,
+  config as config,
+}
+
 export default config;

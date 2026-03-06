@@ -1,27 +1,38 @@
 {
   "displayName": "Prettier Config for LAF",
   "name": "@lazy-and-focused/prettier-config",
-  "version": "1.0.0",
-  "description": "Our (team) Prettier config",
+  "version": "1.1.0",
+  "description": "Official Prettier configuration used by the Lazy-And-Focused team. Ensures uniform code formatting.",
   "type": "module",
   "keywords": [
-    "config",
-    "format",
-    "prettier",
-    "configuration",
-    "laf",
-    "Lazy-And-Focused"
+      "prettier",
+      "prettier-config",
+      "config",
+      "configuration",
+      "code-style",
+      "formatter",
+      "shared-config",
+      "laf",
+      "lazy-and-focused",
+      "javascript",
+      "typescript",
+      "formatting"
   ],
   "author": {
     "name": "Lazy-And-Focused",
-    "url": "https://laf-team.ru",
-    "email": "love.laf.command@gmail.com"
+    "email": "love.laf.command@gmail.com",
+    "url": "https://laf-team.ru"
   },
   "contributors": [
     {
       "name": "lanvalird",
       "email": "strazhognay@gmail.com",
       "url": "https://lanvalird.ru"
+    },
+    {
+      "name": "fockusty",
+      "email": "viserd.yt@gmail.com",
+      "url": "https://fockusty.vercel.app"
     }
   ],
   "license": "MIT",
@@ -29,9 +40,9 @@
     "access": "public"
   },
   "files": [
-    "./index.js"
+    "./src/index.js"
   ],
-  "exports": "./index.js",
+  "exports": "./src/index.js",
   "peerDependencies": {
     "prettier": "^3.0.0"
   }
