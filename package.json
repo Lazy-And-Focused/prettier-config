@@ -23,6 +23,15 @@
     "email": "love.laf.command@gmail.com",
     "url": "https://laf-team.ru"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lazy-And-Focused/prettier-config"
+  },
+  "homepage": "https://github.com/Lazy-And-Focused/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/Lazy-And-Focused/prettier-config/issues"
+  },
+  "license": "MIT",
   "contributors": [
     {
       "name": "lanvalird",
@@ -35,7 +44,6 @@
       "url": "https://fockusty.vercel.app"
     }
   ],
-  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
